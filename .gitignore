@@ -33,3 +33,6 @@ Thumbs.db
 
 # Data
 data/
+
+!requirements.txt
+!requirements-full.txt
